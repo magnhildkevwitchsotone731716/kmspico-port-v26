@@ -1,0 +1,23 @@
+# Visual Studio Build Folders
+.vs/
+bin/
+obj/
+x64/
+x86/
+
+# Windows Temp & Results
+*.log
+*.tmp
+activation_backup.txt
+license_dump.xml
+
+# Executables & Binaries
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Compressed releases
+*.zip
+*.7z
+*.rar
